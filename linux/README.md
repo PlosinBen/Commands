@@ -21,5 +21,5 @@ cat <sshpubfile> >> ~/.ssh/authorized_keys
 
 顯示message queue狀態
 ```cmd
-ipcs
+ipcs -q
 ```
